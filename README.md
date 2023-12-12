@@ -1,0 +1,14 @@
+# evolution_osaka-eng 13 TQ3C.230901.001.B1 1702377186 release-keys
+- manufacturer: motorola
+- platform: holi
+- codename: osaka
+- flavor: evolution_osaka-eng
+- release: 13
+- id: TQ3C.230901.001.B1
+- incremental: 1702377186
+- tags: release-keys
+- fingerprint: motorola/evolution_osaka/osaka:13/TQ3C.230901.001.B1/agentklepto12120432:eng/release-keys
+- is_ab: true
+- brand: motorola
+- branch: evolution_osaka-eng-13-TQ3C.230901.001.B1-1702377186-release-keys
+- repo: motorola_osaka_dump

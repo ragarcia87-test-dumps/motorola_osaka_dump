@@ -1,0 +1,6 @@
+arm64.memtag.process.system_server=off
+media.settings.xml=/vendor/etc/media_profiles_vendor.xml
+media.stagefright.thumbnail.prefer_hw_codecs=true
+persist.backup.ntpServer=0.pool.ntp.org
+ro.media.recorder-max-base-layer-fps=60
+vendor.mm.enable.qcom_parser=16777215
