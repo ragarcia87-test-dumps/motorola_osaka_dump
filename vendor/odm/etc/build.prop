@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=osaka
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=Moto G Stylus 5G 2021
+ro.product.odm.name=lineage_osaka
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Dec 19 08:05:19 CST 2023
+ro.odm.build.date.utc=1702994719
+ro.odm.build.fingerprint=motorola/lineage_osaka/osaka:13/TQ3A.230901.001/agentklepto12190805:userdebug/test-keys
+ro.odm.build.id=TQ3A.230901.001
+ro.odm.build.tags=test-keys
+ro.odm.build.type=userdebug
+ro.odm.build.version.incremental=eng.agentk.20231219.080849
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+persist.vendor.audio.fluence.speaker=false
+persist.vendor.audio.fluence.voicecall=true
+persist.vendor.audio.fluence.voicecomm=true
+persist.vendor.audio.fluence.voicerec=false
+ro.vendor.audio.sdk.fluencetype=fluence
+# end of file
