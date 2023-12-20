@@ -1,0 +1,14 @@
+# lineage_osaka-userdebug 13 TQ3A.230901.001 eng.agentk.20231219.084735 test-keys
+- manufacturer: motorola
+- platform: holi
+- codename: osaka
+- flavor: lineage_osaka-userdebug
+- release: 13
+- id: TQ3A.230901.001
+- incremental: eng.agentk.20231219.084735
+- tags: test-keys
+- fingerprint: motorola/lineage_osaka/osaka:13/TQ3A.230901.001/agentklepto12191709:userdebug/test-keys
+- is_ab: true
+- brand: motorola
+- branch: lineage_osaka-userdebug-13-TQ3A.230901.001-eng.agentk.20231219.084735-test-keys
+- repo: motorola_osaka_dump
